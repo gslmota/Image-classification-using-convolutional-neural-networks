@@ -43,11 +43,22 @@ pip install -r requirements.txt
 
 # Results
 
-### **Face Detection and Landmarks**: 
-* **Face Detection and Landmarks** using Dlib and deep learning.
+### **MNIST**: 
+* **Cnn**. This project was about 99% accurate with CNNs.
 
-![!Face Detection and Landmarks](https://github.com/gslmota/Face-Detection-and-Recognition-with-Python/blob/main/images/d1.png)
+![!MNIST](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/mnist.png)
 
-*Original image: [Yale Faces](https://sthttp://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html)*
+### **CIFAR**: 
+* **Cnn**. This project was about 70% accurate with CNNs.
 
+### **Dogs and Cats**: 
+* **Cnn**. This project was about 97% accurate with CNNs.
+
+![!cat](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/cat.png)
+![!dog](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/dog.png)
  
+ ### **Homer and Bart**: 
+* **Cnn**. This project was about 96% accurate with CNNs.
+
+![!bart](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/bart.png)
+![!homer](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/homer.png)
