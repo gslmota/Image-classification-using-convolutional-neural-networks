@@ -59,6 +59,8 @@ pip install -r requirements.txt
  
  ### **Homer and Bart**: 
 * **Cnn**. This project was about 96% accurate with CNNs.
+* **NN Dense**. This project was about 90% accurate with Neural Network dense.
+
 
 ![!bart](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/bart.png)
 ![!homer](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/homer.png)
