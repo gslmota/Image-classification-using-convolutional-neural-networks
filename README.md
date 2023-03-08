@@ -44,22 +44,22 @@ pip install -r requirements.txt
 # Results
 
 ### **MNIST**: 
-* **Cnn**. This project was about 99% accurate with CNNs.
+* **Cnn**. This project was about 99% accuracy with CNNs.
 
 ![!MNIST](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/mnist.png)
 
 ### **CIFAR**: 
-* **Cnn**. This project was about 70% accurate with CNNs.
+* **Cnn**. This project was about 70% accuracy with CNNs.
 
 ### **Dogs and Cats**: 
-* **Cnn**. This project was about 97% accurate with CNNs.
+* **Cnn**. This project was about 97% accuracy with CNNs.
 
 ![!cat](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/cat.png)
 ![!dog](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/dog.png)
  
  ### **Homer and Bart**: 
-* **Cnn**. This project was about 96% accurate with CNNs.
-* **NN Dense**. This project was about 90% accurate with Neural Network dense.
+* **Cnn**. This project was about 96% accuracy with CNNs.
+* **NN Dense**. This project was about 90% accuracy with Neural Network dense.
 
 
 ![!bart](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/bart.png)
