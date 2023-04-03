@@ -64,3 +64,7 @@ pip install -r requirements.txt
 
 ![!bart](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/bart.png)
 ![!homer](https://github.com/gslmota/Image-classification-using-convolutional-neural-networks./blob/main/imgs/homer.png)
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
